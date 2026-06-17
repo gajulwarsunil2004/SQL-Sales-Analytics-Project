@@ -54,5 +54,7 @@ This project analyzes sales data using MySQL. The database contains Customers, P
 - VS Code
 - GitHub
 
+  
+
 ## Author
 Sunil Gajulwar
